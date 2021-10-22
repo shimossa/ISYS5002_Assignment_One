@@ -4,3 +4,5 @@ The file named Sandbox Practice is where all of the building and trialing occurr
 The file titled 'final' is the result of all the building thus the program itself; the version to be marked
 I was not sure as to where to write my thinking/ notes in the program and therefore they are located at the top of the notebook
 The code also contains comments as the purpose of each function.
+binder link https://mybinder.org/v2/gh/shimossa/ISYS5002_Assignment_One/HEAD
+https://github.com/shimossa/ISYS5002_Assignment_One
